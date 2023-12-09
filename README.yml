@@ -1,0 +1,3 @@
+              - name: Run cfsec with sarif upload
+                uses: aquasecurity/cfsec-sarif-action@v0.0.2
+            
